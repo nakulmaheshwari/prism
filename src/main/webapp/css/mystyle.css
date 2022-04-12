@@ -1,0 +1,9 @@
+body{
+}
+.primary-background{
+    background: rgb(0, 128, 255)!important;
+}
+.default{
+    border-color: rgb(0, 128, 255);
+    background: rgb(0, 128, 255);
+}
