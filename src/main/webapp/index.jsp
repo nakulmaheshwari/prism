@@ -20,7 +20,7 @@
      
     </head>
     <body>
-        <!--navbar-->
+        <!--navththbhar-->
         <%@include file="normal_navbar.jsp" %>
 
         <!--banner-->
